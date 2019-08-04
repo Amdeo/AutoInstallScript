@@ -1,0 +1,2 @@
+# AutoInstallScript
+Automatic installation script
